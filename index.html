@@ -297,15 +297,15 @@
           <div class="amount">Scan the QR code or type the number in Google Pay</div>
         </div>
         <div class="gpay-qr-wrap">
-          <div class="qr-box" id="qr-box" onclick="document.getElementById('qr-file-input').click()">
+          <div class="qr-box" id="qr-box">
             <img id="qr-img" alt="GPay QR Code">
             <div class="qr-empty" id="qr-empty">
               <div style="font-size:24px;margin-bottom:4px">📷</div>
               <div style="font-size:10px;color:#666">Upload<br>GPay QR</div>
             </div>
           </div>
-          <input type="file" id="qr-file-input" accept="image/*" onchange="uploadQR(event)">
-          <label class="qr-upload-label" onclick="document.getElementById('qr-file-input').click()">+ Upload QR</label>
+          <input type="file" id="qr-file-input">
+          <label class="qr-upload-label">+ Upload QR</label>
           <div class="qr-hint" id="qr-hint">Click to add your QR code</div>
         </div>
       </div>
