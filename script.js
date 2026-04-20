@@ -1,7 +1,7 @@
 // ============================================================
 // CONFIGURATION
 // ============================================================
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxN3cfMlL2kb0t9POsqcjBLqgOg-AScC1bv90TA4OzshfIeM6tJoUKtu7AwdSFDd_mY/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxwgupzWJoRL4dx41X20O0_5Z8ilWjTNcVt1npWz60Zq4EcASKheNN5E-ox8nTUJAorsA/exec";
 const ADMIN_PASSWORD = "alive2025admin";
 // ============================================================
 
