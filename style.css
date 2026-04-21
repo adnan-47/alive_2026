@@ -102,6 +102,12 @@
   .gpay-text p { font-size: 14px; color: #ccc; line-height: 1.6; margin-bottom: 0.5rem; }
   .gpay-text .number { font-family: 'Bebas Neue', sans-serif; font-size: 30px; color: #fff; letter-spacing: 2px; display: block; }
   .gpay-text .amount { font-size: 12px; color: var(--muted); }
+  .rupee {
+    padding-top: 20px;
+  }
+  .rupee .rupee-2 {
+    color:#b5e32a;
+  }
   .gpay-qr-wrap { text-align: center; }
  .qr-box {
   width: 140px; /* Slightly larger to match your screenshot */
